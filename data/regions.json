@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "note": "The 21 provinces of Bolivia. `center` is a pixel coordinate in the 8192 map square, used by the editor to assign a province to a marker by nearest centre. Recompute with `npm run centres`.",
+  "regions": [
+    { "id": "agua-verde",     "name": { "en": "Agua Verde",     "th": "อากัวเบร์เด" },     "center": [4106, 2212] },
+    { "id": "barvechos",      "name": { "en": "Barvechos",      "th": "บาร์เบโชส" },       "center": [2163, 3361] },
+    { "id": "caimanes",       "name": { "en": "Caimanes",       "th": "ไกมาเนส" },         "center": [6626, 4062] },
+    { "id": "espiritu-santo", "name": { "en": "Espiritu Santo", "th": "เอสปิริตูซานโต" },  "center": [6166, 1405] },
+    { "id": "flor-de-oro",    "name": { "en": "Flor De Oro",    "th": "ฟลอร์เดโอโร" },     "center": [5607, 6342] },
+    { "id": "inca-camina",    "name": { "en": "Inca Camina",    "th": "อินคากามินา" },     "center": [1767, 6186] },
+    { "id": "itacua",         "name": { "en": "Itacua",         "th": "อิตากัว" },          "center": [3693, 4030] },
+    { "id": "koani",          "name": { "en": "Koani",          "th": "โคอานี" },           "center": [982, 1136] },
+    { "id": "la-cruz",        "name": { "en": "La Cruz",        "th": "ลาครูซ" },           "center": [5829, 5333] },
+    { "id": "libertad",       "name": { "en": "Libertad",       "th": "ลิเบร์ตัด" },        "center": [6601, 6549] },
+    { "id": "malca",          "name": { "en": "Malca",          "th": "มัลกา" },            "center": [4389, 6341] },
+    { "id": "media-luna",     "name": { "en": "Media Luna",     "th": "เมเดียลูนา" },       "center": [2653, 1064] },
+    { "id": "mojocoyo",       "name": { "en": "Mojocoyo",       "th": "โมโฮโกโย" },         "center": [1223, 2638] },
+    { "id": "monte-puncu",    "name": { "en": "Monte Puncu",    "th": "มอนเตปุนกู" },       "center": [5177, 849] },
+    { "id": "montuyoc",       "name": { "en": "Montuyoc",       "th": "มอนตูโยก" },         "center": [1239, 4213] },
+    { "id": "ocoro",          "name": { "en": "Ocoro",          "th": "โอโกโร" },           "center": [4943, 3360] },
+    { "id": "pucara",         "name": { "en": "Pucara",         "th": "ปูการา" },           "center": [3099, 5392] },
+    { "id": "remanzo",        "name": { "en": "Remanzo",        "th": "เรมันโซ" },          "center": [1746, 1848] },
+    { "id": "san-mateo",      "name": { "en": "San Mateo",      "th": "ซานมาเตโอ" },        "center": [2789, 2489] },
+    { "id": "tabacal",        "name": { "en": "Tabacal",        "th": "ตาบากัล" },          "center": [3999, 985] },
+    { "id": "villa-verde",    "name": { "en": "Villa Verde",    "th": "บียาเบร์เด" },       "center": [6534, 2316] }
+  ]
+}

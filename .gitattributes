@@ -1,0 +1,14 @@
+# Normalise line endings so a Windows checkout does not rewrite every file.
+* text=auto eol=lf
+
+# Binaries — never touch these, and do not try to diff them.
+*.jpg binary
+*.png binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+
+# The tile pyramid is generated. Collapse it in pull requests.
+assets/tiles/** linguist-generated
+vendor/** linguist-vendored
+data/markers.json -diff

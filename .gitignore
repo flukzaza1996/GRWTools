@@ -1,0 +1,14 @@
+node_modules/
+source/
+
+# Local override for the marker set. The app prefers it over data/markers.json
+# when present, so you can try out an import without touching the published
+# file. Never tracked — export from the editor over data/markers.json instead.
+data/markers.local.json
+
+# Written by libvips while cutting the tile pyramid.
+assets/vips-properties.xml
+*.log
+.DS_Store
+Thumbs.db
+stitched-z*.jpg

@@ -1,0 +1,22 @@
+{
+  "name": "grwtools",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Ghost Recon Wildlands interactive collectibles map",
+  "scripts": {
+    "tiles": "node tools/make-tiles.mjs",
+    "vendor": "node tools/vendor.mjs",
+    "markers": "node tools/import-guides4gamers.mjs",
+    "items": "node tools/build-items.mjs",
+    "images": "node tools/fetch-item-images.mjs",
+    "icons": "node tools/fetch-category-icons.mjs",
+    "centres": "node tools/set-region-centres.mjs",
+    "serve": "npx --yes serve . -l 5173"
+  },
+  "devDependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "sharp": "^0.34.2"
+  }
+}

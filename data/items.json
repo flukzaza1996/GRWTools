@@ -1,0 +1,1592 @@
+{
+  "version": 1,
+  "note": "Catalogue of things a marker can hand you. Marker.item points at these ids. Entries with source \"wiki\" come from Ghost Recon Wiki (CC BY-SA); drop pictures into assets/items/<id>.jpg to fill in the images.",
+  "items": {
+    "assault-rifle-416": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "416",
+        "th": ""
+      },
+      "note": {
+        "en": "A rifle of choice for US military forces.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-416.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-556xi": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "556xi",
+        "th": ""
+      },
+      "note": {
+        "en": "A lovechild of the AR and AK platforms.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-556xi.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-805-bren-a2": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "805 Bren A2",
+        "th": ""
+      },
+      "note": {
+        "en": "A short barrel Czech assault rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-805-bren-a2.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-ac-ar": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "AC-AR",
+        "th": ""
+      },
+      "note": {
+        "en": "A battle-proven Israeli assault rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-ac-ar.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-acr": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "ACR",
+        "th": ""
+      },
+      "note": {
+        "en": "A modern, modular assault rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-acr.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-ak-12": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "AK-12",
+        "th": ""
+      },
+      "note": {
+        "en": "A sleek, modern take on the AK-47.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-ak-12.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-ak-47": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "AK-47",
+        "th": ""
+      },
+      "note": {
+        "en": "The world's most popular combat rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-ak-47.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-ak-74": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "AK-74",
+        "th": ""
+      },
+      "note": {
+        "en": "A reliable and widely-used rifle of Soviet origin.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-ak-74.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-aug-a3": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "AUG A3",
+        "th": ""
+      },
+      "note": {
+        "en": "An accurate, compact assault rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-aug-a3.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-f2000": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "F2000",
+        "th": ""
+      },
+      "note": {
+        "en": "Ergonomic and modular bullpup from Belgium.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-f2000.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-fal": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "FAL",
+        "th": ""
+      },
+      "note": {
+        "en": "A major battle rifle since the mid-20th-century.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-fal.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-g2": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "G2",
+        "th": ""
+      },
+      "note": {
+        "en": "The French Commando's bullpup.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-g2.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-g36c": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "G36C",
+        "th": ""
+      },
+      "note": {
+        "en": "The G36's sexy, little sister.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-g36c.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-l85a2": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "L85A2",
+        "th": ""
+      },
+      "note": {
+        "en": "The British military's standard issue rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-l85a2.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-lvoa-c": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "LVOA-C",
+        "th": ""
+      },
+      "note": {
+        "en": "A tactical rifle accurate at medium to long range.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-lvoa-c.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-m16": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "M16",
+        "th": ""
+      },
+      "note": {
+        "en": "An assault rifle used by the U.S. Army.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-m16.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-m4a1": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "M4A1",
+        "th": ""
+      },
+      "note": {
+        "en": "A full-auto assault rifle, used by U.S. spec ops.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-m4a1.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-mdr": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "MDR",
+        "th": ""
+      },
+      "note": {
+        "en": "Versatile and low weight bullpup rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-mdr.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-mk-17": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "Mk 17",
+        "th": ""
+      },
+      "note": {
+        "en": "A modular and reliable combat rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-mk-17.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-mk-17-mk-16": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "Mk 17 & Mk 16",
+        "th": ""
+      },
+      "note": {
+        "en": "A modular and reliable combat rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-mk-17-mk-16.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-mk-18": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "MK 18",
+        "th": ""
+      },
+      "note": {
+        "en": "A rifle of choice for US Military forces.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-mk-18.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-p416": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "P416",
+        "th": ""
+      },
+      "note": {
+        "en": "A high-end update to the M4 carbine.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-p416.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-p416-micteca": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "P416 Micteca",
+        "th": ""
+      },
+      "note": {
+        "en": "",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-p416-micteca.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-r4": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "R4",
+        "th": ""
+      },
+      "note": {
+        "en": "A sleek, modern take on the AK-47.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-r4.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-r5-rgp": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "R5 RGP",
+        "th": ""
+      },
+      "note": {
+        "en": "A gun built to defy harsh conditions.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-r5-rgp.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-sc-4000": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "SC 4000",
+        "th": ""
+      },
+      "note": {
+        "en": "An assault rifle prototype built by the Fourth Echelon unit.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-sc-4000.jpg",
+      "source": "wiki"
+    },
+    "assault-rifle-sr3m": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "SR3M",
+        "th": ""
+      },
+      "note": {
+        "en": "A compact, full-auto Russian rifle.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-sr3m.jpg",
+      "source": "in-game"
+    },
+    "assault-rifle-tar-21": {
+      "type": "Assault Rifle",
+      "name": {
+        "en": "TAR-21",
+        "th": ""
+      },
+      "note": {
+        "en": "IDF's standard issue rifle, ideal for urban combat.",
+        "th": ""
+      },
+      "image": "assets/items/assault-rifle-tar-21.jpg",
+      "source": "in-game"
+    },
+    "barrel-long-barrel": {
+      "type": "Barrel",
+      "name": {
+        "en": "Long Barrel",
+        "th": ""
+      },
+      "note": {
+        "en": "Increases muzzle velocity.",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "barrel-short-barrel": {
+      "type": "Barrel",
+      "name": {
+        "en": "Short Barrel",
+        "th": ""
+      },
+      "note": {
+        "en": "Improves your mobility.",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "compact-machine-gun-skorpion": {
+      "type": "Compact Machine Gun",
+      "name": {
+        "en": "Skorpion",
+        "th": ""
+      },
+      "note": {
+        "en": "A Vietnam war vet, still seen in action today.",
+        "th": ""
+      },
+      "image": "assets/items/compact-machine-gun-skorpion.jpg",
+      "source": "in-game"
+    },
+    "compact-machine-gun-smg-11": {
+      "type": "Compact Machine Gun",
+      "name": {
+        "en": "SMG-11",
+        "th": ""
+      },
+      "note": {
+        "en": "An insane rate of fire in a subcompact package.",
+        "th": ""
+      },
+      "image": "assets/items/compact-machine-gun-smg-11.jpg",
+      "source": "in-game"
+    },
+    "gadget-diversion-lure": {
+      "type": "Gadget",
+      "name": {
+        "en": "Diversion Lure",
+        "th": ""
+      },
+      "note": {
+        "en": "",
+        "th": ""
+      },
+      "image": "",
+      "source": "wiki"
+    },
+    "gadget-m60e4": {
+      "type": "Gadget",
+      "name": {
+        "en": "M60E4",
+        "th": ""
+      },
+      "note": {
+        "en": "Shorter and more modular than the classic M60.",
+        "th": ""
+      },
+      "image": "assets/items/gadget-m60e4.jpg",
+      "source": "wiki"
+    },
+    "gadget-mine": {
+      "type": "Gadget",
+      "name": {
+        "en": "Mine",
+        "th": ""
+      },
+      "note": {
+        "en": "",
+        "th": ""
+      },
+      "image": "",
+      "source": "wiki"
+    },
+    "gadget-sam-launcher": {
+      "type": "Gadget",
+      "name": {
+        "en": "SAM launcher",
+        "th": ""
+      },
+      "note": {
+        "en": "",
+        "th": ""
+      },
+      "image": "assets/items/gadget-sam-launcher.jpg",
+      "source": "wiki"
+    },
+    "handgun-5-7-usg": {
+      "type": "Handgun",
+      "name": {
+        "en": "5.7 USG",
+        "th": ""
+      },
+      "note": {
+        "en": "A low-recoil, high-penetration handgun.",
+        "th": ""
+      },
+      "image": "assets/items/handgun-5-7-usg.jpg",
+      "source": "in-game"
+    },
+    "handgun-d-50": {
+      "type": "Handgun",
+      "name": {
+        "en": "D-50",
+        "th": ""
+      },
+      "note": {
+        "en": "Most powerful semi-auto handgun in the world.",
+        "th": ""
+      },
+      "image": "assets/items/handgun-d-50.jpg",
+      "source": "in-game"
+    },
+    "handgun-m1911": {
+      "type": "Handgun",
+      "name": {
+        "en": "M1911",
+        "th": ""
+      },
+      "note": {
+        "en": "A longtime favorite, this is THE shooter's pistol.",
+        "th": ""
+      },
+      "image": "assets/items/handgun-m1911.jpg",
+      "source": "in-game"
+    },
+    "handgun-m9": {
+      "type": "Handgun",
+      "name": {
+        "en": "M9",
+        "th": ""
+      },
+      "note": {
+        "en": "The standard issue pistol of the US Army.",
+        "th": ""
+      },
+      "image": "assets/items/handgun-m9.jpg",
+      "source": "in-game"
+    },
+    "handgun-p12": {
+      "type": "Handgun",
+      "name": {
+        "en": "P12",
+        "th": ""
+      },
+      "note": {
+        "en": "A tactical pistol for stealth kills.",
+        "th": ""
+      },
+      "image": "assets/items/handgun-p12.jpg",
+      "source": "in-game"
+    },
+    "handgun-p227": {
+      "type": "Handgun",
+      "name": {
+        "en": "P227",
+        "th": ""
+      },
+      "note": {
+        "en": "High-powered meets high capacity.",
+        "th": ""
+      },
+      "image": "assets/items/handgun-p227.jpg",
+      "source": "in-game"
+    },
+    "handgun-p45t": {
+      "type": "Handgun",
+      "name": {
+        "en": "P45T",
+        "th": ""
+      },
+      "note": {
+        "en": "A great tool for quietly removing targets.",
+        "th": ""
+      },
+      "image": "assets/items/handgun-p45t.jpg",
+      "source": "wiki"
+    },
+    "light-machine-gun-6p41": {
+      "type": "Light Machine Gun",
+      "name": {
+        "en": "6P41",
+        "th": ""
+      },
+      "note": {
+        "en": "A Russian belt-fed machine gun.",
+        "th": ""
+      },
+      "image": "assets/items/light-machine-gun-6p41.jpg",
+      "source": "in-game"
+    },
+    "light-machine-gun-mg121": {
+      "type": "Light Machine Gun",
+      "name": {
+        "en": "MG121",
+        "th": ""
+      },
+      "note": {
+        "en": "Your general purpose machine gun.",
+        "th": ""
+      },
+      "image": "assets/items/light-machine-gun-mg121.jpg",
+      "source": "in-game"
+    },
+    "light-machine-gun-mk249": {
+      "type": "Light Machine Gun",
+      "name": {
+        "en": "Mk249",
+        "th": ""
+      },
+      "note": {
+        "en": "A belt-fed LMG on an M4 lower.",
+        "th": ""
+      },
+      "image": "assets/items/light-machine-gun-mk249.jpg",
+      "source": "in-game"
+    },
+    "light-machine-gun-mk-48": {
+      "type": "Light Machine Gun",
+      "name": {
+        "en": "MK-48",
+        "th": ""
+      },
+      "note": {
+        "en": "An LMG that dishes out heaps of damage.",
+        "th": ""
+      },
+      "image": "assets/items/light-machine-gun-mk-48.jpg",
+      "source": "in-game"
+    },
+    "light-machine-gun-stoner-lmg-a1": {
+      "type": "Light Machine Gun",
+      "name": {
+        "en": "Stoner LMG A1",
+        "th": ""
+      },
+      "note": {
+        "en": "Mean gun. Small package.",
+        "th": ""
+      },
+      "image": "assets/items/light-machine-gun-stoner-lmg-a1.jpg",
+      "source": "in-game"
+    },
+    "light-machine-gun-type-95": {
+      "type": "Light Machine Gun",
+      "name": {
+        "en": "Type 95",
+        "th": ""
+      },
+      "note": {
+        "en": "A reliable bullpup with a limited range.",
+        "th": ""
+      },
+      "image": "assets/items/light-machine-gun-type-95.jpg",
+      "source": "in-game"
+    },
+    "magazine-extended-10": {
+      "type": "Magazine",
+      "name": {
+        "en": "Extended (10)",
+        "th": ""
+      },
+      "note": {
+        "en": "12-Gauge Magazine (10) Weapon compatibility: Shotgun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "magazine-extended-15": {
+      "type": "Magazine",
+      "name": {
+        "en": "Extended (15)",
+        "th": ""
+      },
+      "note": {
+        "en": ".45ACP Magazine (15) Weapon compatibility: Handgun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "magazine-extended-20": {
+      "type": "Magazine",
+      "name": {
+        "en": "Extended (20)",
+        "th": ""
+      },
+      "note": {
+        "en": "7.62x54mmR Magazine (20) Weapon compatibility: Sniper Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "magazine-extended-200": {
+      "type": "Magazine",
+      "name": {
+        "en": "Extended (200)",
+        "th": ""
+      },
+      "note": {
+        "en": "7.62x51 Ammo Box (200) Weapon compatibility: Light Machine Gun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "magazine-extended-25": {
+      "type": "Magazine",
+      "name": {
+        "en": "Extended (25)",
+        "th": ""
+      },
+      "note": {
+        "en": "9x19 Magazine (25) Weapon compatibility: Handgun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "magazine-extended-30": {
+      "type": "Magazine",
+      "name": {
+        "en": "Extended (30)",
+        "th": ""
+      },
+      "note": {
+        "en": "5.7 Magazine (30) Weapon compatibility: Handgun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "magazine-extended-8": {
+      "type": "Magazine",
+      "name": {
+        "en": "Extended (8)",
+        "th": ""
+      },
+      "note": {
+        "en": "12-Gauge Tube (8) Weapon compatibility: Shotgun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "magazine-large-30": {
+      "type": "Magazine",
+      "name": {
+        "en": "Large (30)",
+        "th": ""
+      },
+      "note": {
+        "en": "12-Gauge Magazine (30) Weapon compatibility: Shotgun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "magazine-large-50": {
+      "type": "Magazine",
+      "name": {
+        "en": "Large (50)",
+        "th": ""
+      },
+      "note": {
+        "en": "5.56 PMAG Magazine (50) Weapon compatibility: Assault Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "muzzle-compensator": {
+      "type": "Muzzle",
+      "name": {
+        "en": "Compensator",
+        "th": ""
+      },
+      "note": {
+        "en": "Reduces recoil. It is incompatible with suppressors. Weapon compatibility: Assault Rifle",
+        "th": ""
+      },
+      "image": "assets/items/muzzle-compensator.jpg",
+      "source": "in-game"
+    },
+    "muzzle-compensator-v2": {
+      "type": "Muzzle",
+      "name": {
+        "en": "Compensator V2",
+        "th": ""
+      },
+      "note": {
+        "en": "Reduces recoil. It is incompatible with suppressors. Weapon compatibility: Sniper Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "muzzle-suppressor": {
+      "type": "Muzzle",
+      "name": {
+        "en": "Suppressor",
+        "th": ""
+      },
+      "note": {
+        "en": "Reduces the sound of gunfire at the cost of stopping power. Weapon compatibility: Light Machine Gun",
+        "th": ""
+      },
+      "image": "assets/items/muzzle-suppressor.jpg",
+      "source": "in-game"
+    },
+    "rail-atpial-laser-sight": {
+      "type": "Rail",
+      "name": {
+        "en": "ATPIAL Laser Sight",
+        "th": ""
+      },
+      "note": {
+        "en": "Rail-mounted laser sight. Visible in NV. Weapon compatibility: Submachine Gun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "rail-laser-3dot": {
+      "type": "Rail",
+      "name": {
+        "en": "Laser 3Dot",
+        "th": ""
+      },
+      "note": {
+        "en": "Uses three lasers for fast target acquisition. Weapon compatibility: Sniper Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "rail-range-finder": {
+      "type": "Rail",
+      "name": {
+        "en": "Range Finder",
+        "th": ""
+      },
+      "note": {
+        "en": "Increases your accuracy and range. Weapon compatibility: Assault Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-compm4": {
+      "type": "Scope",
+      "name": {
+        "en": "CompM4",
+        "th": ""
+      },
+      "note": {
+        "en": "Offers 2x zoom. Weapon compatibility: Submachine Gun, Assault Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-digital-scope": {
+      "type": "Scope",
+      "name": {
+        "en": "Digital Scope",
+        "th": ""
+      },
+      "note": {
+        "en": "Adjust the electronic zoom while aiming. Weapon compatibility: Submachine Gun, Assault Rifle, Sniper Rifle",
+        "th": ""
+      },
+      "image": "assets/items/scope-digital-scope.jpg",
+      "source": "in-game"
+    },
+    "scope-exps3": {
+      "type": "Scope",
+      "name": {
+        "en": "EXPS3",
+        "th": ""
+      },
+      "note": {
+        "en": "A holographic sight. Swap reticles while aiming. Weapon compatibility: Submachine Gun, Shotgun, Assault Rifle, Light Machine Gun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-exps-g33": {
+      "type": "Scope",
+      "name": {
+        "en": "EXPS & G33",
+        "th": ""
+      },
+      "note": {
+        "en": "A red dot sight plus scope. Toggle the scope while aiming. Weapon compatibility: Assault Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-g28": {
+      "type": "Scope",
+      "name": {
+        "en": "G28",
+        "th": ""
+      },
+      "note": {
+        "en": "A 5x scope. Switch to a red dot sight while aiming. Weapon compatibility: Sniper Rifle",
+        "th": ""
+      },
+      "image": "assets/items/scope-g28.jpg",
+      "source": "in-game"
+    },
+    "scope-micro-t-1": {
+      "type": "Scope",
+      "name": {
+        "en": "Micro T-1",
+        "th": ""
+      },
+      "note": {
+        "en": "A red dot scope. Weapon compatibility: Submachine Gun, Shotgun, Assault Rifle, Light Machine Gun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-micro-t-1-g33": {
+      "type": "Scope",
+      "name": {
+        "en": "Micro T-1 & G33",
+        "th": ""
+      },
+      "note": {
+        "en": "A red dot sight plus scope. Toggle the scope while aiming. Weapon compatibility: Submachine Gun, Assault Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-panoramic-sight": {
+      "type": "Scope",
+      "name": {
+        "en": "Panoramic Sight",
+        "th": ""
+      },
+      "note": {
+        "en": "A holographic sight. Swap reticles while aiming. Weapon compatibility: Submachine Gun, Shotgun, Assault Rifle, Light Machine Gun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-pk-as": {
+      "type": "Scope",
+      "name": {
+        "en": "PK-AS",
+        "th": ""
+      },
+      "note": {
+        "en": "A well-made Russian sight, good for CQB.",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-pks-07": {
+      "type": "Scope",
+      "name": {
+        "en": "PKS-07",
+        "th": ""
+      },
+      "note": {
+        "en": "A well-made Russian sniper scope. Weapon compatibility: Sniper Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-posp": {
+      "type": "Scope",
+      "name": {
+        "en": "POSP",
+        "th": ""
+      },
+      "note": {
+        "en": "A 4x scope used by the Chinese Army. Weapon compatibility: Assault Rifle, Sniper Rifle",
+        "th": ""
+      },
+      "image": "assets/items/scope-posp.jpg",
+      "source": "in-game"
+    },
+    "scope-rus-red-dot-g33": {
+      "type": "Scope",
+      "name": {
+        "en": "RUS Red Dot & G33",
+        "th": ""
+      },
+      "note": {
+        "en": "A red dot sight plus scope. Toggle the scope while aiming. Weapon compatibility: Assault Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-russian-red-dot": {
+      "type": "Scope",
+      "name": {
+        "en": "russian Red Dot",
+        "th": ""
+      },
+      "note": {
+        "en": "A Russian-made red dot sight. Swap the reticle while aiming. Weapon compatibility: Submachine Gun, Shotgun, Assault Rifle, Light Machine Gun",
+        "th": ""
+      },
+      "image": "assets/items/scope-russian-red-dot.jpg",
+      "source": "in-game"
+    },
+    "scope-t5xi-tactical": {
+      "type": "Scope",
+      "name": {
+        "en": "T5Xi Tactical",
+        "th": ""
+      },
+      "note": {
+        "en": "A powerful snipe scope. Weapon compatibility: Sniper Rifle",
+        "th": ""
+      },
+      "image": "assets/items/scope-t5xi-tactical.jpg",
+      "source": "in-game"
+    },
+    "scope-ta31h": {
+      "type": "Scope",
+      "name": {
+        "en": "TA31H",
+        "th": ""
+      },
+      "note": {
+        "en": "An ACOG 4x scope with a horseshoe reticle. Weapon compatibility: Assault Rifle, Sniper Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "scope-tars101": {
+      "type": "Scope",
+      "name": {
+        "en": "TARS101",
+        "th": ""
+      },
+      "note": {
+        "en": "A 4.5-5.5x advanced combat optic. Weapon compatibility: Sniper Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "shotgun-acs-12": {
+      "type": "Shotgun",
+      "name": {
+        "en": "ACS-12",
+        "th": ""
+      },
+      "note": {
+        "en": "The fully-automatic shotgun from America.",
+        "th": ""
+      },
+      "image": "assets/items/shotgun-acs-12.jpg",
+      "source": "wiki"
+    },
+    "shotgun-m4-super-90": {
+      "type": "Shotgun",
+      "name": {
+        "en": "M4 Super 90",
+        "th": ""
+      },
+      "note": {
+        "en": "A shotgun used by the United States Marines.",
+        "th": ""
+      },
+      "image": "assets/items/shotgun-m4-super-90.jpg",
+      "source": "wiki"
+    },
+    "shotgun-model-1887": {
+      "type": "Shotgun",
+      "name": {
+        "en": "Model 1887",
+        "th": ""
+      },
+      "note": {
+        "en": "The most famous lever-action shotgun.",
+        "th": ""
+      },
+      "image": "assets/items/shotgun-model-1887.jpg",
+      "source": "wiki"
+    },
+    "shotgun-revsg-12": {
+      "type": "Shotgun",
+      "name": {
+        "en": "RevSG-12",
+        "th": ""
+      },
+      "note": {
+        "en": "A heck of a wallop at a very short range.",
+        "th": ""
+      },
+      "image": "assets/items/shotgun-revsg-12.jpg",
+      "source": "wiki"
+    },
+    "shotgun-sasg-12": {
+      "type": "Shotgun",
+      "name": {
+        "en": "SASG-12",
+        "th": ""
+      },
+      "note": {
+        "en": "A semi-auto shotgun, based on the AK-47.",
+        "th": ""
+      },
+      "image": "assets/items/shotgun-sasg-12.jpg",
+      "source": "in-game"
+    },
+    "shotgun-spas-12": {
+      "type": "Shotgun",
+      "name": {
+        "en": "SPAS-12",
+        "th": ""
+      },
+      "note": {
+        "en": "A shotgun used by police and military all over the world.",
+        "th": ""
+      },
+      "image": "assets/items/shotgun-spas-12.jpg",
+      "source": "in-game"
+    },
+    "shotgun-super-shorty": {
+      "type": "Shotgun",
+      "name": {
+        "en": "Super Shorty",
+        "th": ""
+      },
+      "note": {
+        "en": "A heck of a wallop at a very short range.",
+        "th": ""
+      },
+      "image": "assets/items/shotgun-super-shorty.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-dragunov-svd": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "Dragunov (SVD)",
+        "th": ""
+      },
+      "note": {
+        "en": "The classic, Russian semi-automatic sniper rifle.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-dragunov-svd.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-g28": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "G28",
+        "th": ""
+      },
+      "note": {
+        "en": "A modern, German semi-auto sniper rifle.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-g28.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-hti": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "HTI",
+        "th": ""
+      },
+      "note": {
+        "en": "A long-range rifle in a compact package.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-hti.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-l115a3": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "L115A3",
+        "th": ""
+      },
+      "note": {
+        "en": "This rifle fired the longest confirmed sniper kill.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-l115a3.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-m1891": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "M1891",
+        "th": ""
+      },
+      "note": {
+        "en": "A polymer update to the 19th Century Soviet rifle.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-m1891.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-m40a5": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "M40A5",
+        "th": ""
+      },
+      "note": {
+        "en": "US Marines still use this reliable bolt-action.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-m40a5.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-mk14": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "MK14",
+        "th": ""
+      },
+      "note": {
+        "en": "A selective fire variant of the M14.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-mk14.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-msr": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "MSR",
+        "th": ""
+      },
+      "note": {
+        "en": "This bolt-action fires with surgical precision.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-msr.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-sr-1": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "SR-1",
+        "th": ""
+      },
+      "note": {
+        "en": "Police across Europe use this bolt-action bullpup.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-sr-1.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-sr25": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "SR25",
+        "th": ""
+      },
+      "note": {
+        "en": "Compact for CQB, but accurate at long range.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-sr25.jpg",
+      "source": "in-game"
+    },
+    "sniper-rifle-srsa1": {
+      "type": "Sniper Rifle",
+      "name": {
+        "en": "SRSA1",
+        "th": ""
+      },
+      "note": {
+        "en": "A bolt-action bullpup, compact for CQB.",
+        "th": ""
+      },
+      "image": "assets/items/sniper-rifle-srsa1.jpg",
+      "source": "in-game"
+    },
+    "stock-compensated-buttstock": {
+      "type": "Stock",
+      "name": {
+        "en": "Compensated Buttstock",
+        "th": ""
+      },
+      "note": {
+        "en": "Reduces recoil, but impacts pivoting mobility. Weapon compatibility: Sniper Rifle",
+        "th": ""
+      },
+      "image": "assets/items/stock-compensated-buttstock.jpg",
+      "source": "in-game"
+    },
+    "stock-folded-buttstock": {
+      "type": "Stock",
+      "name": {
+        "en": "Folded Buttstock",
+        "th": ""
+      },
+      "note": {
+        "en": "Folded for mobility, but gives less stability while aiming.",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "stock-short-stock": {
+      "type": "Stock",
+      "name": {
+        "en": "Short Stock",
+        "th": ""
+      },
+      "note": {
+        "en": "Very short for mobility, but gives less stability while aiming. Weapon compatibility: Assault Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "submachine-gun-9mm-c1": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "9mm C1",
+        "th": ""
+      },
+      "note": {
+        "en": "A Cold War veteran, still in use today.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-9mm-c1.jpg",
+      "source": "in-game"
+    },
+    "submachine-gun-9x19vsn": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "9x19VSN",
+        "th": ""
+      },
+      "note": {
+        "en": "This SMG is the AK47's kid brother.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-9x19vsn.jpg",
+      "source": "in-game"
+    },
+    "submachine-gun-honey-badger": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "Honey Badger",
+        "th": ""
+      },
+      "note": {
+        "en": "Superior ballistics in a light and Silent (Ghost Pack)age.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-honey-badger.jpg",
+      "source": "wiki"
+    },
+    "submachine-gun-mp5": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "MP5",
+        "th": ""
+      },
+      "note": {
+        "en": "A Cold War classic, still in use today.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-mp5.jpg",
+      "source": "wiki"
+    },
+    "submachine-gun-mp7": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "MP7",
+        "th": ""
+      },
+      "note": {
+        "en": "This SMG's smaller rounds help reduce its recoil.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-mp7.jpg",
+      "source": "in-game"
+    },
+    "submachine-gun-mpx": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "MPX",
+        "th": ""
+      },
+      "note": {
+        "en": "A quality SMG with a decent range.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-mpx.jpg",
+      "source": "in-game"
+    },
+    "submachine-gun-p90": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "P90",
+        "th": ""
+      },
+      "note": {
+        "en": "Light, powerful, and handy in CQC.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-p90.jpg",
+      "source": "in-game"
+    },
+    "submachine-gun-pdr": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "PDR",
+        "th": ""
+      },
+      "note": {
+        "en": "An SMG-sized AR.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-pdr.jpg",
+      "source": "wiki"
+    },
+    "submachine-gun-pp19": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "PP19",
+        "th": ""
+      },
+      "note": {
+        "en": "The Bizon, a veteran of the Caucasus.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-pp19.jpg",
+      "source": "in-game"
+    },
+    "submachine-gun-psg": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "PSG",
+        "th": ""
+      },
+      "note": {
+        "en": "It's like a tiny M4 that fires in 9mm.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-psg.jpg",
+      "source": "in-game"
+    },
+    "submachine-gun-scorpion-evo-3": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "Scorpion EVO 3",
+        "th": ""
+      },
+      "note": {
+        "en": "A Czech SMG with a high rate of fire.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-scorpion-evo-3.jpg",
+      "source": "in-game"
+    },
+    "submachine-gun-sr-635": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "SR-635",
+        "th": ""
+      },
+      "note": {
+        "en": "A SMG-sized AR.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-sr-635.jpg",
+      "source": "in-game"
+    },
+    "submachine-gun-ump45": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "UMP45",
+        "th": ""
+      },
+      "note": {
+        "en": ".45 caliber cousin of the famous 9mm MP5.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-ump45.jpg",
+      "source": "wiki"
+    },
+    "submachine-gun-vector-45-acp": {
+      "type": "Submachine Gun",
+      "name": {
+        "en": "Vector .45 ACP",
+        "th": ""
+      },
+      "note": {
+        "en": "A high-tech, low recoil SMG.",
+        "th": ""
+      },
+      "image": "assets/items/submachine-gun-vector-45-acp.jpg",
+      "source": "in-game"
+    },
+    "underbarrel-afg": {
+      "type": "Underbarrel",
+      "name": {
+        "en": "AFG",
+        "th": ""
+      },
+      "note": {
+        "en": "A foregrip that assists in muzzle control, but adds some weight. Weapon compatibility: Submachine Gun, Shotgun, Assault Rifle, Sniper Rifle, Light Machine Gun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "underbarrel-foregrip-v2": {
+      "type": "Underbarrel",
+      "name": {
+        "en": "Foregrip V2",
+        "th": ""
+      },
+      "note": {
+        "en": "Aids in the manipulation of the firearm. Weapon compatibility: Submachine Gun, Shotgun, Assault Rifle, Sniper Rifle, Light Machine Gun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "underbarrel-foregrip-v3": {
+      "type": "Underbarrel",
+      "name": {
+        "en": "Foregrip V3",
+        "th": ""
+      },
+      "note": {
+        "en": "Aids in the manipulation of the firearm. Weapon compatibility: Submachine Gun, Shotgun, Assault Rifle, Sniper Rifle, Light Machine Gun",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "underbarrel-foregrip-v4": {
+      "type": "Underbarrel",
+      "name": {
+        "en": "Foregrip V4",
+        "th": ""
+      },
+      "note": {
+        "en": "Aids in the manipulation of the firearm. Weapon compatibility: Submachine Gun, Shotgun, Assault Rifle, Sniper Rifle, Light Machine Gun",
+        "th": ""
+      },
+      "image": "assets/items/underbarrel-foregrip-v4.jpg",
+      "source": "in-game"
+    },
+    "underbarrel-m203-gl": {
+      "type": "Underbarrel",
+      "name": {
+        "en": "M203 GL",
+        "th": ""
+      },
+      "note": {
+        "en": "Switch while aiming. Underbarrel weight affects handling. Weapon compatibility: Assault Rifle",
+        "th": ""
+      },
+      "image": "",
+      "source": "in-game"
+    },
+    "underbarrel-shift-short-angled-grip": {
+      "type": "Underbarrel",
+      "name": {
+        "en": "Shift Short Angled Grip",
+        "th": ""
+      },
+      "note": {
+        "en": "A foregrip that assists in muzzle control, but ads some weight. Weapon compatibility: Submachine Gun, Shotgun, Assault Rifle, Sniper Rifle, Light Machine Gun",
+        "th": ""
+      },
+      "image": "assets/items/underbarrel-shift-short-angled-grip.jpg",
+      "source": "in-game"
+    },
+    "underbarrel-vertical-foregrip": {
+      "type": "Underbarrel",
+      "name": {
+        "en": "Vertical Foregrip",
+        "th": ""
+      },
+      "note": {
+        "en": "Aids in the manipulation of the firearm.",
+        "th": ""
+      },
+      "image": "assets/items/underbarrel-vertical-foregrip.jpg",
+      "source": "in-game"
+    }
+  }
+}
