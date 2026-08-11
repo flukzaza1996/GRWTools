@@ -197,11 +197,14 @@ through the middle of Bolivia.
 
 Live at **<https://flukzaza1996.github.io/GRWTools/>**.
 
-It is a static site with no build step, so `.github/workflows/pages.yml` uploads
-the checkout itself and publishes it on every push to `main` — no settings to
-click, the workflow switches Pages on the first time it runs. The empty
-`.nojekyll` file stops Jekyll from touching `assets/tiles`, and the whole
-payload is ~23 MB against a 1 GB limit.
+Set **Settings → Pages → Source: GitHub Actions** once. After that
+`.github/workflows/pages.yml` uploads the checkout itself and publishes on every
+push to `main` — there is no build step, so the repository *is* the artifact.
+The empty `.nojekyll` file stops Jekyll from touching `assets/tiles`, and the
+whole payload is ~23 MB against a 1 GB limit.
+
+That one manual step is unavoidable: creating a Pages site takes admin rights,
+which the workflow's `GITHUB_TOKEN` does not have.
 
 Every path in the app is relative, so it works from a project subpath
 (`/GRWTools/`) without a `base` setting.

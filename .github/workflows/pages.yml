@@ -28,11 +28,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # enablement: true turns Pages on for the repo on the first run, so
-      # nobody has to click through Settings first.
+      # Pages must already be switched on with Settings > Pages > Source:
+      # "GitHub Actions". The action's `enablement: true` cannot do it for you —
+      # creating a Pages site needs admin rights, which GITHUB_TOKEN lacks.
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:
